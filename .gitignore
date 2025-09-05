@@ -1,0 +1,29 @@
+# IDE settings
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build output
+/bin/
+/build/
+/target/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven/Gradle specific
+.mvn/
+mvnw
+mvnw.cmd
+.gradle/
